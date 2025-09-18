@@ -1,7 +1,7 @@
 # 📊 Amazon Products Review Analysis  
 
 ## 🎯 Executive Summary  
-This project analyzes customer reviews for two bedding products — **Bedsure bedsheets** and **Breescape bedsheets** — based on **data cleaning, exploratory data analysis (EDA), and sentiment analysis** of reviews from 2020–2025.  
+This project analyzes customer reviews for two bedding products **Bedsure bedsheets** and **Breescape bedsheets** based on **data cleaning, exploratory data analysis (EDA), and sentiment analysis** of reviews from 2020–2025.  
 
 ---
 
