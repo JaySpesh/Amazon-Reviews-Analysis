@@ -19,7 +19,7 @@ This project analyzes customer reviews for two bedding products **Bedsure bedshe
 
 ---
 
-## ✅ Recommendations  
+## ✅ Solutions  
 
 ### Bedsure Product  
 - Highlight strengths in marketing campaigns  
